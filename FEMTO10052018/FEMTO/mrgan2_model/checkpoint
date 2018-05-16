@@ -1,0 +1,6 @@
+model_checkpoint_path: "mrgan_end.ckpt"
+all_model_checkpoint_paths: "mrgan_max.ckpt"
+all_model_checkpoint_paths: "mrgan_post5.ckpt"
+all_model_checkpoint_paths: "mrgan_post10.ckpt"
+all_model_checkpoint_paths: "mrgan_post20.ckpt"
+all_model_checkpoint_paths: "mrgan_end.ckpt"

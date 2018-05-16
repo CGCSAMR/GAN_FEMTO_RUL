@@ -1,0 +1,3 @@
+model_checkpoint_path: "lstm_end.ckpt"
+all_model_checkpoint_paths: "lstm_start.ckpt"
+all_model_checkpoint_paths: "lstm_end.ckpt"
